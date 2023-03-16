@@ -9,9 +9,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Abreeia/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abreeia/configure-ad)
-  - [Network File Shares and Permissions](https://github.com/Abreeia/network-file-share)
+  
   - [Virtual Private Networks](https://github.com/Abreeia/vpn-discover)
+  - Understanding DNS in Domain Controller](https://github.com/Abreeia/DNS-Azure)
+  - [Network File Shares and Permissions](https://github.com/Abreeia/network-file-share)
 
 
 <h2>🤳🏽Connect with me:</h2>
