@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Abreeia, an inspiring IT Professional</a>☺</h1>
 
-2🏽‍💻👩🏽‍💻>💻 Information Technology Projects:</h2>
+💻👩🏽‍💻>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Abreeia/osticket-prereqs)
