@@ -8,8 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Abreeia/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Abreeia/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring-On-premises-Active-Directory-within-Azure-VMs](https://github.com/Abreeia/configure-ad)
-  - [Understanding DNS in Domain Controller](https://github.com/Abreeia/DNS-Azure)
+  - [Active-Directory-within-Azure-VMs](https://github.com/Abreeia/configure-ad)
+  - [Purpose of DNS in Domain Controlle](https://github.com/Abreeia/DNS-Azure)
   - [Network-File-Shares-and-Permissions](https://github.com/Abreeia/network-file-share)
   - [Observing-and-Understanding-Virtual-Private-Networks](https://github.com/Abreeia/vpn-discover)
 
