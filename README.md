@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abreeia/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/Abreeia/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/Abreeia/network-file-share)
-  - [Virtual Private Networks](https://github.com/Abreeia/vpn-discover)
+  - [Observing and Understanding Virtual Private Networks](https://github.com/Abreeia/vpn-discover)
 
 <h2>🤳🏽Connect with me:</h2>
 
