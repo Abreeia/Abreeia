@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Abreeia, an inspiring <a href="https://linkedin.com//>IT Professional</a>☺</h1>
+<h1>Hi, I'm Abreeia, an inspiring <a href="https://linkedin.com/>IT Professional</a>☺</h1>
 
 <h2🏽‍💻👩🏽‍💻>💻 Information Technology Projects:</h2>
 
