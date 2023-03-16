@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Abreeia, an inspiring IT Professional</a>☺</h1>
+<h1>Hi, I'm Abreeia, an aspiring IT Professional</a>☺</h1>
 
 💻👩🏽‍💻>💻 Information Technology Projects:</h2>
 
