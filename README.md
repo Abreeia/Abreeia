@@ -19,4 +19,4 @@
 
 <h2>🤳🏽Connect with me:</h2>
 
--[Brea (bre) banks | LinkedIn]
+- [Brea (bre) banks | LinkedIn]
