@@ -19,4 +19,4 @@
 
 <h2>🤳🏽Connect with me:</h2>
 
-- [Brea (bre) banks | LinkedIn]
+https://www.linkedin.com/in/brea-banks-20361a26a/
