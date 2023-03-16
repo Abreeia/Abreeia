@@ -10,9 +10,9 @@
 - <b>Microsoft Azure</b>
   
   
-  - [Virtual Private Networks](https://github.com/Abreeia/vpn-discover)
-  - Understanding DNS in Domain Controller](https://github.com/Abreeia/DNS-Azure)
-  - [Network File Shares and Permissions](https://github.com/Abreeia/network-file-share)
+  -[Virtual Private Networks](https://github.com/Abreeia/vpn-discover)
+- [Understanding DNS in Domain Controller](https://github.com/Abreeia/DNS-Azure)
+  -[Network File Shares and Permissions](https://github.com/Abreeia/network-file-share)
 
 
 <h2>🤳🏽Connect with me:</h2>
